@@ -2,11 +2,14 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="20">
+      <module name="accessing-data-mysql-complete" target="20" />
       <module name="swd-accessing-data-mysql" target="20" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="accessing-data-mysql" options="-parameters" />
+      <module name="accessing-data-mysql-complete" options="-parameters" />
       <module name="swd-accessing-data-mysql" options="-parameters" />
     </option>
   </component>

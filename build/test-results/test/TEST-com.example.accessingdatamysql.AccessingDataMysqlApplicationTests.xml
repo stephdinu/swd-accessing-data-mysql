@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.accessingdatamysql.AccessingDataMysqlApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-13T09:02:55" hostname="Stephanies-MacBook-Pro.local" time="0.674">
+<testsuite name="com.example.accessingdatamysql.AccessingDataMysqlApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-25T11:53:53" hostname="Stephanies-MacBook-Pro.local" time="0.597">
   <properties/>
-  <testcase name="contextLoads()" classname="com.example.accessingdatamysql.AccessingDataMysqlApplicationTests" time="0.674"/>
+  <testcase name="contextLoads()" classname="com.example.accessingdatamysql.AccessingDataMysqlApplicationTests" time="0.597"/>
   <system-out><![CDATA[
   .   ____          _            __ _ _
  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
@@ -11,9 +11,9 @@
  =========|_|==============|___/=/_/_/_/
  :: Spring Boot ::                (v3.1.1)
 
-2023-07-13T11:02:55.724+02:00  INFO 6323 --- [    Test worker] c.e.a.AccessingDataMysqlApplicationTests : Starting AccessingDataMysqlApplicationTests using Java 20.0.1 with PID 6323 (started by stephaniedinu in /Users/stephaniedinu/Desktop/IdeaProjects/swd-accessing-data-mysql)
-2023-07-13T11:02:55.726+02:00  INFO 6323 --- [    Test worker] c.e.a.AccessingDataMysqlApplicationTests : No active profile set, falling back to 1 default profile: "default"
-2023-07-13T11:02:55.816+02:00  INFO 6323 --- [    Test worker] c.e.a.AccessingDataMysqlApplicationTests : Started AccessingDataMysqlApplicationTests in 0.247 seconds (process running for 0.965)
+2023-07-25T13:53:53.648+02:00  INFO 49801 --- [    Test worker] c.e.a.AccessingDataMysqlApplicationTests : Starting AccessingDataMysqlApplicationTests using Java 20.0.1 with PID 49801 (started by stephaniedinu in /Users/stephaniedinu/Desktop/IdeaProjects/swd-accessing-data-mysql)
+2023-07-25T13:53:53.649+02:00  INFO 49801 --- [    Test worker] c.e.a.AccessingDataMysqlApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-07-25T13:53:53.748+02:00  INFO 49801 --- [    Test worker] c.e.a.AccessingDataMysqlApplicationTests : Started AccessingDataMysqlApplicationTests in 0.25 seconds (process running for 0.977)
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
